@@ -4,6 +4,7 @@
 ## Name(s) and GitHub handles of individual or team members
 Eliza Ross (@elizaross104)
 <br>Katie Gonzalez (@katgonza)
+<br>Anna Melega (@amelega)
 
 ## Short 1-2 sentence summary
 We aim to compare population and size data for the Humback Chub to precipitation in the Colorado River basin.
