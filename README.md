@@ -19,6 +19,12 @@ As climate change affects weather patterns across the globe, annual precipitatio
 
 ## Datasets you will use (with links, if available)
 
+Humpback chub (Gila cypha) capture histories and growth data for two areas in the Colorado River network from 2009-2022 and 2017-2022: https://www.usgs.gov/data/humpback-chub-gila-cypha-capture-histories-and-growth-data-two-areas-colorado-river-network
+
+Humpback chub (Gila cypha) and mean daily water temperature data, western Grand Canyon - 2000 to 2016: https://www.usgs.gov/data/humpback-chub-gila-cypha-and-mean-daily-water-temperature-data-western-grand-canyon-2000-2016
+
+Still need to find dataset for precipitation
+
 ## Tools/packages you’ll use (with links)
 
 ## Planned methodology/approach
@@ -28,3 +34,5 @@ As climate change affects weather patterns across the globe, annual precipitatio
 ## Any other relevant information, images/tables, references, etc.
 
 ## References
+
+Colorado River Basin Climate and Hydrology: https://wwa.colorado.edu/sites/default/files/2021-06/ColoRiver_StateOfScience_WWA_2020_Chapter_2.pdf
