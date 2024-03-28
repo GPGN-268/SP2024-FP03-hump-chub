@@ -7,10 +7,10 @@ Eliza Ross (@elizaross104)
 <br>Anna Melega (@amelega)
 
 ## Short 1-2 sentence summary
-We aim to compare population and size data for the Humpback Chub to precipitation in the Colorado River basin.
+We aim to compare population and size data for the Humpback Chub to precipitation in the Colorado River basin. 
 
 ## Some introductory background information
-The Humpback Chub is a native species of fish of the Colorado River Basin, protected under theEndangered Species Act due to the effects of dams and human water use on river flow & habitat
+The Humpback Chub is a native species of fish of the Colorado River Basin, protected under the Endangered Species Act due to the effects of dams and human water use on river flow & habitat. As precipitation changes due to climate change and other effects, it is important to understand how changing levels in precipitation will affect species populations and the greater ecosystem. 
 
 ## Problem statement, question(s) and/or objective(s)
 
