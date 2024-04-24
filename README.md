@@ -26,12 +26,16 @@ Humpback chub (Gila cypha) and mean daily water temperature data, western Grand 
 
 Water temperature models, data and code for the Colorado, Green, San Juan, Yampa, and White rivers in the Colorado River basin: https://doi.org/10.5066/P9HFKV7Q
 
-
+USGS 09402000 LITTLE COLORADO RIVER NEAR CAMERON, A
 https://waterdata.usgs.gov/nwis/monthly/?site_no=09402000&referred_module=sw&format=sites_selection_links
 
 USGS 09402300 LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ
 https://waterdata.usgs.gov/nwis/monthly/?site_no=09402300&referred_module=sw&format=sites_selection_links
+
+USGS 09402500 COLORADO RIVER NEAR GRAND CANYON, AZ
 https://waterdata.usgs.gov/nwis/monthly/?site_no=09402500&referred_module=sw&format=sites_selection_links
+
+USGS 09403850 KANAB CREEK ABOVE THE MOUTH NEAR SUPAI, AZ
 https://waterdata.usgs.gov/nwis/monthly/?site_no=094038500&referred_module=sw&format=sites_selection_links
 
 
