@@ -26,9 +26,14 @@ Humpback chub (Gila cypha) and mean daily water temperature data, western Grand 
 
 Water temperature models, data and code for the Colorado, Green, San Juan, Yampa, and White rivers in the Colorado River basin: https://doi.org/10.5066/P9HFKV7Q
 
-Multi-century reconstructions of temperature, precipitation, and runoff efficiency for the Upper Colorado River Basin:  https://doi.org/10.5066/F79885ZT
 
-NOAA/WDS Paleoclimatology - Woodhouse et al. 2006 Updated Streamflow Reconstructions for the Upper Colorado River Basin: https://doi.org/10.25921/3d73-zv15
+https://waterdata.usgs.gov/nwis/monthly/?site_no=09402000&referred_module=sw&format=sites_selection_links
+
+USGS 09402300 LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ
+https://waterdata.usgs.gov/nwis/monthly/?site_no=09402300&referred_module=sw&format=sites_selection_links
+https://waterdata.usgs.gov/nwis/monthly/?site_no=09402500&referred_module=sw&format=sites_selection_links
+https://waterdata.usgs.gov/nwis/monthly/?site_no=094038500&referred_module=sw&format=sites_selection_links
+
 
 ## Tools/packages
 
