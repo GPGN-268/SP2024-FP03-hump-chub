@@ -49,30 +49,30 @@ XML Workbook converters
 
 ## Planned methodology/approach
 
-**Data Collection**:
-	Humpback chub population sizes
-    Average chub length
+**Data Collection**: <br>
+	Humpback chub population sizes<br>
+    Average chub length<br>
     Historical precipitation data for Colorado River Basin
 
-**Data Cleaning and Prep**:
-    Format conversions, especially for historical data, for compatibility
-    Remove inconsistencies, outliers
+**Data Cleaning and Prep**:<br>
+    Format conversions, especially for historical data, for compatibility<br>
+    Remove inconsistencies, outliers<br>
     Remove irrelevant data used for other research
 
-**Exploratory Data Analysis (EDA)**:
-	Use descriptive functions to understand size/breadth of datasets
-    Use histograms, scatter plots, time series plots to visualize datasets
+**Exploratory Data Analysis (EDA)**:<br>
+	Use descriptive functions to understand size/breadth of datasets<br>
+    Use histograms, scatter plots, time series plots to visualize datasets<br>
     *Statistical Analysis*: Correlation analysis, regression analysis (maybe), understand the strength of relationship
-		C. B. YACKULIC ET AL
-            Closed models, which assume population closure during the study
+		C. B. YACKULIC ET AL<br>
+            Closed models, which assume population closure during the study<br>
             Open models to allow for gains and losses to the local population over the period of data collection
 	
-**Modeling**:
-		Predictive models to forecast Humpback Chub population dynamics based on precip. data
+**Modeling**:<br>
+		Predictive models to forecast Humpback Chub population dynamics based on precip. data<br>
         Time series analysis, regression models, machine learning algorithms for complex relationships
 	
-**Validation/Interpretation**:
-		Validation scores of models are optimized
+**Validation/Interpretation**:<br>
+		Validation scores of models are optimized<br>
 		Identify potential mechanisms for driving observed patterns
 
 ## Expected outcomes
