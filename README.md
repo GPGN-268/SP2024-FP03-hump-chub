@@ -38,7 +38,7 @@ As climate change affects weather patterns across the globe, annual precipitatio
 
 [USGS 09403850 KANAB CREEK ABOVE THE MOUTH NEAR SUPAI, AZ](https://waterdata.usgs.gov/nwis/monthly/?site_no=094038500&referred_module=sw&format=sites_selection_links)
 
-## Packages and Tools
+## Tools and Libraries
 To conduct our analysis, we used the following tools and libraries:
 * Jupyter Notebook
 * scikit-learn
@@ -80,6 +80,6 @@ To conduct our analysis, we used the following tools and libraries:
 
 ## References
 
-Yackulic, C.B., Korman, J., Yard, M.D. and Dzul, M. (2018), Inferring species interactions through joint mark–recapture analysis. Ecology, 99: 812-821. https://doi.org/10.1002/ecy.2166
+Yackulic, C.B., Korman, J., Yard, M.D. and Dzul, M. (2018), Inferring species interactions through joint mark–recapture analysis. Ecology, 99: 812-821.[DOI Link](https://doi.org/10.1002/ecy.2166)
 
-Colorado River Basin Climate and Hydrology: https://wwa.colorado.edu/sites/default/files/2021-06/ColoRiver_StateOfScience_WWA_2020_Chapter_2.pdf
+[Colorado River Basin Climate and Hydrology](https://wwa.colorado.edu/sites/default/files/2021-06/ColoRiver_StateOfScience_WWA_2020_Chapter_2.pdf)
