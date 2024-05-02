@@ -22,14 +22,14 @@ As climate change affects weather patterns across the globe, annual precipitatio
 
 ## Datasets
 1. **Species Data**
-[Humpback Chub and Rainbow Trout Joint Mark-Recapture Data and Model, Colorado River, Arizona](https://doi.org/10.5066/f7zc81t9) <br>
+<br>[Humpback Chub and Rainbow Trout Joint Mark-Recapture Data and Model, Colorado River, Arizona](https://doi.org/10.5066/f7zc81t9) <br>
 
 [Humpback chub (Gila cypha) capture histories and growth data for two areas in the Colorado River network from 2009-2022 and 2017-2022](https://www.usgs.gov/data/humpback-chub-gila-cypha-capture-histories-and-growth-data-two-areas-colorado-river-network) <br>
 
 [Humpback chub (Gila cypha) and mean daily water temperature data, western Grand Canyon - 2000 to 2016](https://www.usgs.gov/data/humpback-chub-gila-cypha-and-mean-daily-water-temperature-data-western-grand-canyon-2000-2016) <br>
 
 2. **Environmental Data**
-[USGS 09402000 LITTLE COLORADO RIVER NEAR CAMERON, AZ](https://waterdata.usgs.gov/nwis/monthly/?site_no=09402000&referred_module=sw&format=sites_selection_links) <br>
+<br>[USGS 09402000 LITTLE COLORADO RIVER NEAR CAMERON, AZ](https://waterdata.usgs.gov/nwis/monthly/?site_no=09402000&referred_module=sw&format=sites_selection_links) <br>
 
 [USGS 09402300 LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ](https://waterdata.usgs.gov/nwis/monthly/?site_no=09402300&referred_module=sw&format=sites_selection_links) <br>
 
