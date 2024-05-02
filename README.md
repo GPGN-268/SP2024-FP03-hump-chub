@@ -15,11 +15,10 @@ The Humpback Chub is a native fish species in the Colorado River Basin, listed u
 ## Objectives
 * Wrangle and process data for Humpback Chub characteristics and streamflow discharge in the Colorado River.
 * Understand the correlation between streamflow changes and chub population characteristics.
-* Develop predictive models to forecast future trends in the Humpback Chub population
 
 ## Requirements and Problem Statement
 
-As climate change affects weather patterns across the globe, annual precipitation is expected to change as well. Stories of water shortages and long term droughts already fill headlines as reservoirs hit historic lows. The two largest reservoirs in the world, Lake Powell and Lake Mead, are fed by the Colorado River Basin, with the effects of long term droughts already impacting the millions of people that depend on its water. Other creatures also depend on the Colorado River Basin for survival, notably species of fish like the humpback chub that are only found in the Colorado River. Federally protected and classified as endangered, the chub has seen rapidly declining populations since the building of dams on the Colorado River in the 1970s. This raises the question: how will the humpback chub respond to a changing climate? More particularly, will the population change and will growth be affected by a change in precipitation? We will compare population size and average chub length to precipitation in the Colorado River Basin with the goal of understanding how the chub will respond to climate change.
+As climate change affects weather patterns across the globe, annual precipitation is expected to change as well. Stories of water shortages and long term droughts already fill headlines as reservoirs hit historic lows. The two largest reservoirs in the world, Lake Powell and Lake Mead, are fed by the Colorado River Basin, with the effects of long term droughts already impacting the millions of people that depend on its water. Other creatures also depend on the Colorado River Basin for survival, notably species of fish like the humpback chub that are only found in the Colorado River. Federally protected and classified as endangered, the chub has seen rapidly declining populations since the building of dams on the Colorado River in the 1970s. This raises the question: how will the humpback chub respond to a changing climate? More particularly, will the population change and will growth be affected by a change in river discharge? We will compare population size and average chub length to water discharge in the Colorado River with the goal of understanding how the chub will respond to climate change.
 
 ## Datasets
 1. **Species Data**
@@ -50,6 +49,7 @@ To conduct our analysis, we used the following tools and libraries:
 
 **Data Collection**:
 * Average chub length
+* Number of chub caught
 * Streamflow discharge on the Colorado River in Arizona
 
 **Data Cleaning and Prep**:
@@ -65,18 +65,14 @@ To conduct our analysis, we used the following tools and libraries:
     * C. B. YACKULIC ET AL.
     * Closed models, which assume population closure during the study
     * Open models to allow for gains and losses to the local population over the period of data collection
-	
-**Modeling**:
-* Predictive models to forecast Humpback Chub population dynamics based on precip. data
-* Time series analysis, regression models, machine learning algorithms for complex relationships
-	
+		
 **Validation/Interpretation**:
 * Validation scores of models are optimized
 * Identify potential mechanisms for driving observed patterns
 
-## Expected outcomes
+## Summary of Results
 
-## Any other relevant information, images/tables, references, etc.
+Using data describing discharge of the Colorado River over time, as well as number of Humback Chub caught and their lengths, we found a correlation between increased discharge and increased size of chub. Detailed figures and analysis can be found [here](scripts/final.ipynb). 
 
 ## References
 
