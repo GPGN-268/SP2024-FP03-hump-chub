@@ -1,5 +1,5 @@
 # Characterizations of Humpback Chub Populations Affected by Streamflow
-SP2024-FP03-hump-chub
+**Repository Name**: SP2024-FP03-hump-chub
 
 ## Project Overview
 This project aims to analyze the impact of changing precipitation patterns on the population and size distribution of the Humpback Chub in the Colorado River Basin. Given climate change and its potential impact on streamflow, our study intends to establish a relationship between precipitation changes and Humpback Chub populations.
